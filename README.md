@@ -36,6 +36,3 @@ Aplication will be deployed in AWS ECS.
 
 
 ## Notes
-
-
-#I just want to see a change effect
